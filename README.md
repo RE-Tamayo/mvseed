@@ -16,7 +16,7 @@ To install MVSeed Framework, follow these steps:
    ```shell
    composer create-project retamayo/mvseed your-project-name
    ```
-This command will create a new directory named your-project-name and install the MVSeed Framework and its dependencies inside it. Replace your-project-name with the desired name for your project.
+   This command will create a new directory named your-project-name and install the MVSeed Framework and its dependencies inside it. Replace your-project-name with the desired  name for your project.
 
 2. Create a configuration file (e.g., .env) on the document root and customize it based on your application's needs (Note: Use the .env-example as a basis).
 

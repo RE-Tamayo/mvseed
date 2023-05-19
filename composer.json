@@ -1,0 +1,23 @@
+{
+    "name": "retamayo/mvseed",
+    "description": "MVSeed Framework is a lightweight and flexible MVC framework for PHP.",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "vlucas/phpdotenv": "^5.5",
+        "retamayo/mvseed-core": "1.0.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RE-Tamayo",
+            "email": "rosas.emerjoe.tamayo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
